@@ -1,0 +1,18 @@
+[theme]
+primaryColor = "#22D3EE"
+baseRadius = "small"
+buttonRadius = "small"
+
+[theme.light]
+primaryColor = "#0891B2"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#0F172A"
+borderColor = "#A5F3FC"
+
+[theme.dark]
+primaryColor = "#22D3EE"
+backgroundColor = "#05080A"
+secondaryBackgroundColor = "#0F1A1F"
+textColor = "#E6FBFF"
+borderColor = "#164E63"
